@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "bd897de4-a69a-9e59-37b9-74fcaace7118": {
+      "updates": [
+        {
+          "version": "1.0.1",
+          "update_link": "https://github.com/minna30/AV_keyword_checker_open/releases/download/v1.0.1/your-addon-v1.0.1.xpi"
+        }
+      ]
+    }
+  }
+}
